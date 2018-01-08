@@ -1,10 +1,12 @@
 package com.rami.vo;
 
 public class Address {
-
     private String name;
+
     private String street;
+
     private int zipCode;
+
     private String country;
 
     public String getName() {
